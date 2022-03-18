@@ -1,0 +1,35 @@
+body {
+    font-size: 17px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    /* position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+    text-align: center;
+}
+
+form {
+    margin-top: 40px;
+}
+
+input {
+    font-size: 17px;
+}
+
+button {
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.result {
+    width: 70vw;
+    margin: 0 auto;
+    margin-top: 50px;
+}
